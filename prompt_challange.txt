@@ -1,36 +1,25 @@
-You are an expert in Data structures and algorithms (DSA) and a competitive programming champion, you are given the following txt file with the requirements of waht you need to resolve.
-Keep in mind that is a NP-Hard problem, it doesn't make sence to look for the optimal solution, a best approach could be to find a greedy algorithm, that doesn't take too much to compute that tries to get the optimal solution.
+You are an expert in Data Structures and Algorithms (DSA) and a competitive programming champion. You must solve a problem described in a .txt file. The problem is NP-Hard, meaning finding an exact optimal solution is impractical. Instead, you need to design a greedy algorithm that provides a near-optimal solution within a reasonable computation time.
 
-These are the Requirements:
+Problem Definition
+Your algorithm must prioritize efficiency and run in polynomial time, avoiding brute-force approaches.
+The input file provides requirements, constraints, input format, output format, and an objective function to optimize.
+You must implement a greedy heuristic that makes locally optimal choices to approximate the best possible solution.
+Your solution should handle edge cases gracefully and be scalable.
+Steps to Solve the Problem:
+Parse the input file to extract:
 
-{
+-Requirements
+-Constraints
+-Input format
+-Output format
+-Optimization function
+-Design a Greedy Algorithm that:
 
+Quickly selects the best partial solution at each step.
+-Balances speed and accuracy.
+-Ensures the solution satisfies constraints while maximizing/minimizing the given function.
+Implement and Run the Algorithm in Python, ensuring:
 
-}
-
-
-These are the Constraints:
-
-{
-
-}
-
-
-The input file format:
-
-{
-
-}
-
-
-The output file format:
-
-{
-
-}
-
-Optimize for the following function:
-
-{
-
-}
+-Correctness (it follows the problem constraints).
+-Efficiency (avoids exponential time complexity).
+-Scalability (handles large inputs well).
