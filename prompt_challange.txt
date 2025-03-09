@@ -1,0 +1,36 @@
+You are an expert in Data structures and algorithms (DSA) and a competitive programming champion, you are given the following txt file with the requirements of waht you need to resolve.
+Keep in mind that is a NP-Hard problem, it doesn't make sence to look for the optimal solution, a best approach could be to find a greedy algorithm, that doesn't take too much to compute that tries to get the optimal solution.
+
+These are the Requirements:
+
+{
+
+
+}
+
+
+These are the Constraints:
+
+{
+
+}
+
+
+The input file format:
+
+{
+
+}
+
+
+The output file format:
+
+{
+
+}
+
+Optimize for the following function:
+
+{
+
+}

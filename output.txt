@@ -1,0 +1,5 @@
+8 0 R D D D D
+2 2 D D D L U U
+7 1 L U L U
+8 4 D R
+1 0 D L
